@@ -1,0 +1,6 @@
+fastapi==0.115.8
+uvicorn==0.34.0
+streamlit==1.43.2
+cohere==5.14.0
+requests==2.32.3
+pydantic==2.11.1
